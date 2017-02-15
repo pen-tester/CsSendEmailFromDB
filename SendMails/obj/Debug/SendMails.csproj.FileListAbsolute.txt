@@ -1,0 +1,5 @@
+C:\Develop\SendEmail\SendMails\SendMails\obj\Debug\SendMails.csprojResolveAssemblyReference.cache
+C:\Develop\SendEmail\SendMails\SendMails\bin\Debug\SendMails.exe
+C:\Develop\SendEmail\SendMails\SendMails\bin\Debug\SendMails.pdb
+C:\Develop\SendEmail\SendMails\SendMails\obj\Debug\SendMails.exe
+C:\Develop\SendEmail\SendMails\SendMails\obj\Debug\SendMails.pdb

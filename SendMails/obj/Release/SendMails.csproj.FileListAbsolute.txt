@@ -1,0 +1,4 @@
+C:\Develop\SendEmail\SendMails\SendMails\bin\Release\SendMails.exe
+C:\Develop\SendEmail\SendMails\SendMails\bin\Release\SendMails.pdb
+C:\Develop\SendEmail\SendMails\SendMails\obj\Release\SendMails.exe
+C:\Develop\SendEmail\SendMails\SendMails\obj\Release\SendMails.pdb
